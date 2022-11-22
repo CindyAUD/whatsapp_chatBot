@@ -30,13 +30,6 @@ ___
 5. run `npm start`
 
 
-##### Terms and License :
-- This script was under MIT License.
-- Batch chat will trigger whatsapp ban system, and mostly this will ban your number for spamming, use it with your own risk.
-- If you have another trick for improve this, just do a pull request.
-
-
-<a href="https://www.buymeacoffee.com/randhipp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 104px !important;" ></a>
 
 ##### Thanks to :
 - [Venom Bot](https://github.com/orkestral/venom/)
